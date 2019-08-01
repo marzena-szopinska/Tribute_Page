@@ -1,0 +1,45 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 1rem;
+  font-family: 'Source Sans Pro', sans-serif;
+  width: 100%;
+}
+
+#main {
+  background-color: #E1E1E1;
+  border-radius: 8px;
+  box-shadow: inset 0 0 10px #000000;
+}
+
+#main, footer {
+  width: 100%;
+  padding: 1.25rem;
+}
+
+img {
+  max-width: 100%;
+}
+
+#tribute-info {
+  text-align: center;
+}
+
+ul {
+  width: 85%;
+  margin: 0 auto;
+}
+
+.intro {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+#img-div {
+  padding: 1rem;
+  background-color: #fff;
+}
